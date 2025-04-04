@@ -1,16 +1,29 @@
-## Hi there 👋
+# سلام، من [اسم خودت] هستم 👋
 
-<!--
-**ABOLFAZLVALIKHANI/ABOLFAZLVALIKHANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## توسعه‌دهنده Python/Django | سئو | کریپتو | امنیت
 
-Here are some ideas to get you started:
+من یک توسعه‌دهنده بک‌اند هستم که در پروژه‌های متنوعی از طراحی CRM و پلتفرم های اختصاصی تا راه اندازی وبسایت های وردپرسی فعالیت کرده‌ام. همچنین در تحلیل بازارهای مالی و آموزش فاندامنتال ارزهای دیجیتال نیز مهارت دارم.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 مهارت‌ها
+- Django, DRF, Python
+- REST API, PostgreSQL
+- Vue.js (با همکاری تیمی)
+- Web Scraping
+- SEO & Content Strategy
+- fundamental cryptocurrency 
+
+---
+
+### 🛠 پروژه‌ها
+- **[سیچک CRM](https://sicheck.ir)**: طراحی و توسعه سیستم CRM اختصاصی با Django  
+- **سیچک**: مشاوره و اجرای سئو تکنیکال  
+- **Web Crawler Script**: اسکریپت خزش و انتقال داده به وردپرس  
+- **آموزش‌های کریپتو و تحلیل بازار** در یوتیوب
+
+---
+
+### 📫 در تماس باشیم:
+- [LinkedIn](https://linkedin.com/in/abolfazlvalikhani)
+- Email: valikhani.ab@gmail.com
